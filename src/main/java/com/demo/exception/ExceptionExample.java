@@ -29,7 +29,7 @@ public class ExceptionExample {
 	    	logger.error("Error Occured", ex);
 	    }
 		
-		System.out.println("Test");
+		System.out.println("Test123456");
 
 	}
 
